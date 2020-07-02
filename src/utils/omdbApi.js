@@ -1,7 +1,7 @@
 import queryString from 'querystring';
 import { parseSearch } from './parseSearch';
 
-const API_URL = 'http://www.omdbapi.com/';
+const API_URL = '//www.omdbapi.com/';
 const API_KEY = '157f34ed';
 
 export async function search(text) {
