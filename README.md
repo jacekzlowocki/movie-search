@@ -1,5 +1,7 @@
 # movie-search
 
+**URL: https://jz-movie-search.herokuapp.com**
+
 This is the simple movie search front-end only app, that uses OMDB API for providing data.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
