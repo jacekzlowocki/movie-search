@@ -19,6 +19,7 @@ body {
   font-size: 2em;
   outline-width: 0;
   border-width: 0 0 2px 0;
+  border-color: #444444;
   background-color: transparent;
   text-align: center;
   width: 100%;
