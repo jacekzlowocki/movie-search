@@ -24,7 +24,11 @@ This app is not completed. Below is the list of tasks needed to be completed.
 
 In the project directory, you can run:
 
-### `yarn start`
+### `PORT=[yourport] yarn start`
+
+Runs the app in production mode. `PORT` env variable is required. Make sure to run `yarn build` for preparing production build before starting the app.
+
+### `yarn start:dev`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
