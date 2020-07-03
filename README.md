@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## TODO
 
-This app is not completed. Below is the list of tasks needed to be completed.
+This app is not complete! Below is the list of changes to be implemented.
 
 ### Technical:
 - [ ] design consultancy with actual designer ;)
@@ -20,7 +20,8 @@ This app is not completed. Below is the list of tasks needed to be completed.
 
 ### Features:
 - [ ] search query should be included in the URL after `#` - allowing linking directly to search results
-- [ ] click on the movie in search result should open a movie view with it's details, url should change accordingly (using React Router)
+- [ ] click on the movie in search result should open a movie view with its details, URL should change accordingly (using React Router)
+- [ ] for consideration: year selector as a separate form field OR displaying a hint how to search movie titles with year in them (using doublequotes)
 
 ## Available Scripts
 
@@ -28,7 +29,7 @@ In the project directory, you can run:
 
 ### `PORT=[yourport] yarn start`
 
-Runs the app in production mode. `PORT` env variable is required. Make sure to run `yarn build` for preparing production build before starting the app.
+Runs the app in production mode. `PORT` env variable is required. Make sure to run `yarn build` for preparing production build before starting the app in production mode.
 
 ### `yarn start:dev`
 
